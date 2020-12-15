@@ -1,0 +1,20 @@
+RIB_ATB=01001020110600063704
+RIB_STB=10006035183777978883
+RIB_BHA=14032032101700811460
+RIB_SMT=05001000027320320625
+RIB_POSTE=##################
+=========================================================
+Code_Op_REM=01
+Code_Op_PFM=02
+Code_Op_REG=03
+Code_Op_PFG=04
+=========================================================
+libelle_Op_REM=Recharge Mobile
+libelle_Op_PFM=Paiement Facture Mobile
+libelle_Op_REG=Recharge GAB
+libelle_Op_PFG=Paiement Facture GAB
+==========================================================
+ShortLib_Op_REM=REM
+ShortLib_Op_PFM=PFM
+ShortLib_Op_REG=REG
+ShortLib_Op_PFG=PFG
